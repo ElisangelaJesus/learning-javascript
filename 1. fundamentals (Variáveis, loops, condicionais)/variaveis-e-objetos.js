@@ -17,3 +17,5 @@ const usuario = {
 //Explicação: "Isso deu erro porque constantes não permitem reatribuição".
 
 console.log("Perfil do Usuário:", usuario);
+
+// Aprendizado: Usei 'const' para o nome porque é um dado imutável nesta regra de negócio.
