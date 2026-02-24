@@ -2,7 +2,7 @@
 const nome = "Elisangela";
 
 // 2. Declare uma variável para sua idade (que pode mudar)
-let idade = 31; // Coloque sua idade real aqui
+let idade = 41; // Coloque sua idade real aqui
 
 // 3. Crie o objeto de usuário
 const usuario = {
